@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "85c2b04367f017eee32d2f88",
+  "owner": "ceuytahcswgz",
+  "repo": "page-2dc2e848abda135c769ed70a",
+  "title": "巨浪(JulangCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2dc2e848abda135c769ed70a",
+      "a": "巨浪(JulangCloud)",
+      "b": "稳定全球clash加速器",
+      "entity": "巨浪(JulangCloud)",
+      "brand": "巨浪(JulangCloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b8a2ef94c446b9228ac4734a2d6bf9bc9ee61abe7eaf420d09447c326b9eac60",
+      "content": {
+        "primary_entity": "巨浪(JulangCloud)",
+        "keyword1": "巨浪(JulangCloud)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "在 Clash、Shadowrocket、Stash 与 sing-box 中导入订阅，按设备系统选择对应客户端。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "选对套餐，导入订阅，让跨区域访问保持顺畅。",
+          "AI_CLOSING_TITLE": "开始配置巨浪",
+          "AI_DESCRIPTION": "，覆盖 Windows、macOS、iOS、Android 与路由器等常用环境，基础版、旗舰版和团队版分别提供 100GB、300GB 与 1000GB 月流量，对应 3 台、5 台与 20 台设备同时在线，按年付可节省费用。",
+          "AI_FEATURES_INTRO": "从流量、设备数量和计费周期三个角度，快速匹配适合的套餐。",
+          "AI_FEATURES_TITLE": "套餐与设备匹配",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备在线，适合手机与电脑轻度使用，按年付 ¥150。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、5 台设备在线，含 IPLC 专线游戏加速优化，按年付 ¥350。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、20 台设备在线，支持企业定制路由，按年付 ¥850。",
+          "AI_FEATURE_TITLE_1": "轻量入门",
+          "AI_FEATURE_TITLE_2": "均衡性能",
+          "AI_FEATURE_TITLE_3": "多人协作",
+          "AI_GUIDE_INTRO": "先确定使用的设备与客户端，再对照套餐流量和设备数选择，最后依照客户端文档导入订阅地址。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_HERO_INTRO": "巨浪(JulangCloud)提供 Clash 订阅与多平台客户端配置，三档套餐覆盖个人到团队的不同流量与设备需求，选好套餐后按客户端文档导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "巨浪加速，跨区流畅",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "支持 Clash 等主流客户端导入",
+          "AI_HIGHLIGHT_3": "按年付享更低的月均价格",
+          "AI_PLANS_INTRO": "基础版、旗舰版与团队版在月流量、在线设备数和专线权益上逐级提升，可按使用人数与流量消耗对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据月流量、同时在线设备数量与预算，在基础版、旗舰版、团队版中选择一档。",
+          "AI_STEP_TEXT_2": "核对设备系统与客户端版本，确认是否支持当前系统所需的订阅导入方式。",
+          "AI_STEP_TEXT_3": "依照客户端文档填入订阅地址，完成节点加载与代理规则设置后开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "巨浪多平台订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "巨浪三档套餐主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备在线；旗舰版每月 300GB 流量、支持 5 台设备，并配备 IPLC 专线与游戏加速优化；团队版每月 1000GB 流量、支持 20 台设备，附带企业定制路由。可按设备数量与用途选择。",
+          "AI_FAQ_QUESTION_2": "如何为不同设备选择客户端？",
+          "AI_FAQ_ANSWER_2": "Windows 与 macOS 常用 Clash Verge 或 Mihomo Party，iOS 与 iPadOS 常用 Shadowrocket 或 Stash，Android 可选用 Clash Meta for Android 或 sing-box，路由器可搭配 OpenWrt 插件。导入订阅后按节点延迟选择线路。",
+          "AI_FAQ_QUESTION_3": "按年付能节省多少费用？",
+          "AI_FAQ_ANSWER_3": "基础版按年付 ¥150，旗舰版按年付 ¥350，团队版按年付 ¥850。与按月付费相比，年付方案在长期使用中更划算，适合确定持续使用的用户。",
+          "AI_FAQ_QUESTION_4": "可以同时在多台设备上使用吗？",
+          "AI_FAQ_ANSWER_4": "各档套餐对应不同设备数量上限：基础版 3 台，旗舰版 5 台，团队版 20 台。超过上限时新增设备可能无法同时在线，可根据实际设备数量选择合适的套餐。",
+          "AI_FAQ_QUESTION_5": "旗舰版的游戏加速有什么特点？",
+          "AI_FAQ_ANSWER_5": "旗舰版配备 IPLC 专线并针对游戏加速优化，相比基础版的普通线路节点池，在延迟和稳定性方面更适合实时对战类应用。团队版则提供 VIP 专属高带宽节点，适合多人共享。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "slrnanu.cn",
+    "host": "slrnanu.cn"
+  },
+  "file_hashes": {
+    "index.html": "0371a6767f424b8459046232fd0cccecb11b1ed0c71f825d0bb89834307c9ae4",
+    "sitemap.xml": "61f59b09acaf819545c37f3e735e92f74da69bfd8cc6f4411d290999ae8c7ed7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1bdd16ad6f38c406d6be9343dec083ae75dfa3b66b89410853772cb562995367",
+    "robots.txt": "d77c4be0cf230b87386c7950f400daf4c8ff2f072d112dce3b0ffc73671ac8a2",
+    "6ecaf3a963f7e204dad0b53b676c7488.txt": "5ca189631f5c7b1f196364eaee3518d10ed8244c54a2186a824cf6d12837bd82"
+  },
+  "revision": "5c201891bb8b5597673ba504d1f336b31bf7748d934e5ca26f941491e2c317fb"
+}
